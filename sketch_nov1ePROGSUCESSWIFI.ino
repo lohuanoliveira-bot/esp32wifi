@@ -6,8 +6,8 @@
 
 // ================= CONFIGURACOES =================
 // Altere para o nome e senha da rede Wi-Fi da sua casa:
-const char* ssid = "ALEXANDRE_AUGUSTO_2.4G";
-const char* password = "206090santos";
+const char* ssid = "seuWIFI";
+const char* password = "suaSENHAWIFI";
 
 const int pinoFL = 13; // Frente esquerda
 const int pinoFR = 12; // Frente direita
